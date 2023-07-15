@@ -1,0 +1,9 @@
+add below link
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
+
+github original link
+https://github.com/hagezi/dns-blocklists#bypass
+
+nodes.gen4.ninja
+freeconnect.link
+1clickvpn.net
